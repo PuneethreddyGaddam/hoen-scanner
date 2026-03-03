@@ -2,3 +2,9 @@
 !.idea/runConfigurations/
 target/
 hoen-scanner.iml
+.m2/
+apache-maven-*/
+apache-maven-*-bin.zip
+settings.xml
+dependency-reduced-pom.xml
+.vscode/
